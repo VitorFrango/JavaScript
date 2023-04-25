@@ -14,4 +14,4 @@ function changeBackgroundColor(mudafundo) {
     document.body.style.backgroundColor = mudafundo;
 }
 
-changeBackgroundColor("blue");
+changeBackgroundColor("green");
